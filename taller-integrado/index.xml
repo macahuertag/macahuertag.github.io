@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macarena Huerta on Macarena Huerta - MID 2021</title>
+    <link>https://macahuertag.github.io/taller-integrado/</link>
+    <description>Recent content in Macarena Huerta on Macarena Huerta - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://macahuertag.github.io/taller-integrado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POST 0</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post0/</guid>
+      <description>Contenido de mi post 1 con hugo</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>AVANCE EXAMEN 10 MAYO</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/avances-examen-10-mayo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/avances-examen-10-mayo/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 1</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post1/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 2</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post2/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 3</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post3/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 4</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post4/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 5</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post5/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 6</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post6/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 7</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post7/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post7/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>POST 8</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/post8/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/post8/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>SOFTWARE CREATIVO</title>
+      <link>https://macahuertag.github.io/taller-integrado/docs/software-creativo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-integrado/docs/software-creativo/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
