@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>POST1</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post1/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post1/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
       <title>Ejemplos Markdown</title>
       <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
