@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Espacio y Ciudad on Macarena Huerta</title>
+    <link>https://macahuertag.github.io/taller-ciudad-espacio/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Macarena Huerta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://macahuertag.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POST1 TEMA</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post1si/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post1si/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>POST2 DIBUJOS</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post2si/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post2si/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>POST3 PROPUESTA DE VALOR</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post3si/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post3si/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>POST4 ANIMACIÓN</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post4/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post4/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>POST5 MODELADO 3D</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post5/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post5/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>POST6 MIDTERM</title>
+      <link>https://macahuertag.github.io/taller-ciudad-espacio/docs/post6/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://macahuertag.github.io/taller-ciudad-espacio/docs/post6/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>
